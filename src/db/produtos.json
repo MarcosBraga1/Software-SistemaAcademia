@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Whey",
+    "precoUnitario": 50.0,
+    "precoVenda": 70.0,
+    "categoria": "Suplemento",
+    "especificacoes": "Whey 1Kg Marca X"
+  },
+  {
+    "id": 2,
+    "nome": "Luva Treino",
+    "precoUnitario": 20.0,
+    "precoVenda": 30.0,
+    "categoria": "Equipamento",
+    "especificacoes": "Luvas para uso em treino"
+  }
+]

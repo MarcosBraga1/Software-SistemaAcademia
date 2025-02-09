@@ -1,0 +1,56 @@
+[
+  {
+    "id": 3,
+    "data": "2025-02-09",
+    "hora": "13:00",
+    "cliente": {
+      "id": 1,
+      "cartao": "0000000000000000",
+      "nome": "Cliente 1",
+      "cpf": "123.456.789-10",
+      "endereco": "Rua A",
+      "email": "cliente1@gmail.com",
+      "telefone": "00 912345678"
+    },
+    "aula": "Musculacao",
+    "instrutor": {
+      "id": 1,
+      "cargo": "Funcionario",
+      "usuario": "marcos",
+      "senha": "12345",
+      "nome": "Marcos",
+      "cpf": "12345678900",
+      "endereco": "Rua A",
+      "email": "marcos@example.com",
+      "telefone": "38911111111"
+    },
+    "status": "Preliminar"
+  },
+  {
+    "id": 4,
+    "data": "2025-02-12",
+    "hora": "09:00",
+    "cliente": {
+      "id": 3,
+      "cartao": "2222222222222222",
+      "nome": "Cliente 3",
+      "cpf": "111.222.333-44",
+      "endereco": "Rua C",
+      "email": "cliente3@outlook.com",
+      "telefone": "00 988887777"
+    },
+    "aula": "Pilates",
+    "instrutor": {
+      "id": 1,
+      "cargo": "Funcionario",
+      "usuario": "marcos",
+      "senha": "12345",
+      "nome": "Marcos",
+      "cpf": "12345678900",
+      "endereco": "Rua A",
+      "email": "marcos@example.com",
+      "telefone": "38911111111"
+    },
+    "status": "Confirmado"
+  }
+]

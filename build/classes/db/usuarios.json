@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "cargo": "Funcionario",
+    "usuario": "marcos",
+    "senha": "12345",
+    "nome": "Marcos",
+    "cpf": "12345678900",
+    "endereco": "Rua A",
+    "email": "marcos@example.com",
+    "telefone": "38911111111"
+  },
+  {
+    "id": 2,
+    "cargo": "Gerente",
+    "usuario": "admin",
+    "senha": "12345",
+    "nome": "admin",
+    "cpf": "00000000000",
+    "endereco": "",
+    "email": "admin@example.com",
+    "telefone": "00000000000"
+  }
+]

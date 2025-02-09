@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "cartao": "0000000000000000",
+    "nome": "Cliente 1",
+    "cpf": "123.456.789-10",
+    "endereco": "Rua A",
+    "email": "cliente1@gmail.com",
+    "telefone": "00 912345678"
+  },
+  {
+    "id": 2,
+    "cartao": "1111111111111111",
+    "nome": "Cliente 2",
+    "cpf": "987.654.321-00",
+    "endereco": "Rua B",
+    "email": "cliente2@hotmail.com",
+    "telefone": "00 998765432"
+  },
+  {
+    "id": 3,
+    "cartao": "2222222222222222",
+    "nome": "Cliente 3",
+    "cpf": "111.222.333-44",
+    "endereco": "Rua C",
+    "email": "cliente3@outlook.com",
+    "telefone": "00 988887777"
+  }
+]

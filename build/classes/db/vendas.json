@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "cliente": {
+      "id": 1,
+      "cartao": "a",
+      "nome": "A",
+      "cpf": "a",
+      "endereco": "a",
+      "email": "a",
+      "telefone": "a"
+    },
+    "listaItens": [
+      {
+        "id": 1,
+        "produto": {
+          "id": 1,
+          "nome": "Whey",
+          "precoUnitario": 50.0,
+          "precoVenda": 70.0,
+          "categoria": "Suplemento",
+          "especificacoes": "Whey 1Kg Marca X"
+        },
+        "quantidade": 50
+      },
+      {
+        "id": 2,
+        "produto": {
+          "id": 1,
+          "nome": "Whey",
+          "precoUnitario": 50.0,
+          "precoVenda": 70.0,
+          "categoria": "Suplemento",
+          "especificacoes": "Whey 1Kg Marca X"
+        },
+        "quantidade": 50
+      }
+    ],
+    "valor": 7000.0,
+    "dataHora": "2024-11-03T18:05:14.637456200",
+    "formaPagamento": "Pix"
+  },
+  {
+    "id": 2,
+    "cliente": {
+      "id": 2,
+      "cartao": "b",
+      "nome": "B",
+      "cpf": "b",
+      "endereco": "b",
+      "email": "b",
+      "telefone": "b"
+    },
+    "listaItens": [
+      {
+        "id": 1,
+        "produto": {
+          "id": 1,
+          "nome": "Whey",
+          "precoUnitario": 50.0,
+          "precoVenda": 70.0,
+          "categoria": "Suplemento",
+          "especificacoes": "Whey 1Kg Marca X"
+        },
+        "quantidade": 1
+      }
+    ],
+    "valor": 70.0,
+    "dataHora": "2024-11-03T18:07:32.820781100",
+    "formaPagamento": "Debito"
+  }
+]

@@ -28,7 +28,7 @@ O sistema oferece as seguintes funcionalidades:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/MarcosBraga1/Software-SistemaAcademia.git
 
 2. Abra o projeto em seu NetBeans;
 
